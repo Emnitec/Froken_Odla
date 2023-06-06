@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/emnitec/Dokument/Kicad/Projekt/Fröken Ödla/Fröken Ödla.kicad_sch</source>
+    <date>sön  4 jun 2023 21:45:21</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Fröken Ödla.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>PCM_Capacitor_THT_AKL:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <datasheet>https://www.electrokit.com/produkt/poly-100nf-63v-5mm/</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>299cf28c-dab5-492f-888c-003e26b668ed</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>PCM_Capacitor_THT_AKL:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <datasheet>https://www.electrokit.com/produkt/poly-100nf-63v-5mm/</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b21ab16-ac9f-425e-8870-9c7227bccca8</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>47pF</value>
+      <footprint>PCM_Capacitor_THT_AKL:C_Disc_D3.0mm_W1.6mm_P2.50mm</footprint>
+      <datasheet>https://www.electrokit.com/produkt/keramisk-mlcc-47pf-50v-np0-2-54mm/</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5c8cce4-198f-414d-a47d-79634f16030c</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22uF</value>
+      <footprint>PCM_Capacitor_THT_AKL:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <datasheet>https://www.electrokit.com/produkt/el-lyt-22uf-50v-85c-o5x11mm/</datasheet>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c24cb655-513e-4a91-a613-7adf9eac5dfc</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>PCM_Capacitor_THT_AKL:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <datasheet>https://www.electrokit.com/produkt/poly-100nf-63v-5mm/</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fa79b91-f30c-4d50-ac5f-f9c641a1eb83</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>PCM_Capacitor_THT_AKL:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <datasheet>https://www.electrokit.com/produkt/poly-100nf-63v-5mm/</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1fe3950-d4de-4556-baf4-71b9d152bf7f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>PCM_Capacitor_THT_AKL:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <datasheet>https://www.electrokit.com/produkt/poly-100nf-63v-5mm/</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a5d1f0-9ec5-49b9-8ac6-08f3a125d379</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>22uF</value>
+      <footprint>PCM_Capacitor_THT_AKL:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <datasheet>https://www.electrokit.com/produkt/el-lyt-22uf-50v-85c-o5x11mm/</datasheet>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e12a7bd-78ea-4411-b313-58fcedd678ee</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>PCM_Capacitor_THT_AKL:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <datasheet>https://www.electrokit.com/produkt/poly-100nf-63v-5mm/</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12ffa363-ddd0-45cd-ac43-15fb6bace528</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>22uF</value>
+      <footprint>PCM_Capacitor_THT_AKL:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <datasheet>https://www.electrokit.com/produkt/el-lyt-22uf-50v-85c-o5x11mm/</datasheet>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d41f9d17-658d-4b54-b8ea-8a631e0c097d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c892f054-7b76-4f92-a7c2-d03162bfa300</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_Small</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ce974c8-273d-46f0-861f-aeb8beb3567c</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N5817</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23bb56a4-7d16-457e-aae0-a0afeda6b31e</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_Small</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f9b33bb-e5e9-44c8-ba75-c78770979ff8</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IN</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d13de361-e391-4a8b-ac58-b1e8b081bdba</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>led</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a98e7a6d-37cd-46f0-9ce9-51b9aad5ec5d</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>pin</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ff1ff54-6e76-4ef3-a2cc-801627432ff8</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>+9V</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>905c3294-4f05-4d07-9ce4-4aeccd610292</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>GND</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3cbe05f-2d0d-45cd-a673-fb10d08807cb</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>UT</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Socket" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>616d892f-5e0f-4916-93ea-cc757d5f2d4b</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MPSA13</value>
+      <footprint>Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC</footprint>
+      <datasheet>https://www.onsemi.com/pdf/datasheet/mpsa13-d.pdf</datasheet>
+      <libsource lib="PCM_Transistor_BJT_Darlington_AKL" part="MPSA13" description="NPN TO-92 Darlington transistor, 30V, 500mA, 625mW, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="NPN TO-92 Darlington transistor, 30V, 500mA, 625mW, Alternate KiCAD Library"/>
+      <property name="ki_keywords" value="transistor NPN Darlington MPSA13"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdecb5e8-b13d-431d-89a8-57285044ac60</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC</footprint>
+      <datasheet>https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf</datasheet>
+      <libsource lib="PCM_Transistor_BJT_AKL" part="2N3904" description="NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"/>
+      <property name="ki_keywords" value="transistor NPN 2N3904"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59ec7e4e-6f75-47e4-827a-37333d4c4d31</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC</footprint>
+      <datasheet>https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf</datasheet>
+      <libsource lib="PCM_Transistor_BJT_AKL" part="2N3904" description="NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library"/>
+      <property name="ki_keywords" value="transistor NPN 2N3904"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2774405b-4d62-4031-9472-67c0b9fd3f58</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>2N3906</value>
+      <footprint>Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC</footprint>
+      <datasheet>https://www.tme.eu/Document/1d69ece8147fa5a64114d103f531c790/2N3906BU.pdf</datasheet>
+      <libsource lib="PCM_Transistor_BJT_AKL" part="2N3906" description="PNP TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3904, Alternate KiCAD Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="PNP TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3904, Alternate KiCAD Library"/>
+      <property name="ki_keywords" value="transistor PNP 2N3906"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcd8b1bf-6a62-4db1-a5a3-82ba59176b04</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1M</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>327da15a-8209-4cfe-80be-fe0629f1a4f7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c85a4d3-ddc6-491b-942a-b83c74d8a221</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1M</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f749fd1a-d622-4745-aec8-f865a5867353</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca2ab4d8-1a7c-426a-a550-b07365f6f3dd</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>470K</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84b55abb-9be4-42b6-8f6c-4e94143ca242</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a61830c-dd06-4cf3-a536-30528e34ec27</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08d2b92b-a13d-4e75-b82a-083238c2c93b</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>470K</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b3e6225-c556-466b-9eac-64ca24505df3</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>470R</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54a88df0-45b5-4d41-9bca-1265c71e6bcb</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4K7</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9499f12-003d-4598-8aad-986d5b12211e</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>330K</value>
+      <footprint>Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm" description="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library"/>
+      <property name="ki_keywords" value="R res resistor eu tht 7.62mm 0207"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c720ee04-1ded-4ba6-939d-1c5e55e92185</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>bal</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b3293c0-1ef5-4010-b8d9-4a11861361b0</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>oct</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f011889-57f0-4cfa-b2da-a01215337656</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>lvl</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>127d07cc-0885-47a5-92aa-4a5e3d4adf44</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>FB</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x03_P4.6mm_D0.9mm_OD2.1mm</footprint>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Fröken Ödla.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d171271-439e-46e6-9c32-6c03065e708d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Socket">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Small">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5817">
+      <description>20V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5817</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N914">
+      <description>100V 0.3A Small Signal Fast Switching Diode, DO-35</description>
+      <docs>http://www.vishay.com/docs/85622/1n914.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N914</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/85622/1n914.pdf</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_Resistor_AKL" part="R_DIN0207_P7.62mm">
+      <description>THT 0207 Resistor, 7.62mm Pin Pitch, European Symbol, Alternate KiCad Library</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_DIN0207_P7.62mm</field>
+        <field name="Footprint">Resistor_THT_AKL:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_Transistor_BJT_AKL" part="2N3904">
+      <description>NPN TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3906, Alternate KiCAD Library</description>
+      <docs>https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC</field>
+        <field name="Datasheet">https://www.tme.eu/Document/12bff749841e3a356e683e9a8e7e4119/2N3904BU-DTE.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_Transistor_BJT_AKL" part="2N3906">
+      <description>PNP TO-92 transistor, 40V, 200mA, 625mW, Complementary to 2N3904, Alternate KiCAD Library</description>
+      <docs>https://www.tme.eu/Document/1d69ece8147fa5a64114d103f531c790/2N3906BU.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3906</field>
+        <field name="Footprint">Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC</field>
+        <field name="Datasheet">https://www.tme.eu/Document/1d69ece8147fa5a64114d103f531c790/2N3906BU.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_Transistor_BJT_Darlington_AKL" part="MPSA13">
+      <description>NPN TO-92 Darlington transistor, 30V, 500mA, 625mW, Alternate KiCAD Library</description>
+      <docs>https://www.onsemi.com/pdf/datasheet/mpsa13-d.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MPSA13</field>
+        <field name="Footprint">Package_TO_SOT_THT_AKL:TO-92_Inline_Wide_EBC</field>
+        <field name="Datasheet">https://www.onsemi.com/pdf/datasheet/mpsa13-d.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/app/extensions/Library/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/app/extensions/Library/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/app/extensions/Library/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="PCM_Resistor_AKL">
+      <uri>/home/emnitec/.var/app/org.kicad.KiCad/data/kicad/7.0/3rdparty/symbols/com_github_dawidcislo_alternate-kicad-library/Resistor_AKL.kicad_sym</uri>
+    </library>
+    <library logical="PCM_Transistor_BJT_AKL">
+      <uri>/home/emnitec/.var/app/org.kicad.KiCad/data/kicad/7.0/3rdparty/symbols/com_github_dawidcislo_alternate-kicad-library/Transistor_BJT_AKL.kicad_sym</uri>
+    </library>
+    <library logical="PCM_Transistor_BJT_Darlington_AKL">
+      <uri>/home/emnitec/.var/app/org.kicad.KiCad/data/kicad/7.0/3rdparty/symbols/com_github_dawidcislo_alternate-kicad-library/Transistor_BJT_Darlington_AKL.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/app/extensions/Library/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D1-A)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D3-K)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J1-Pin_1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(J6-Pin_1)">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(Q1-B)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(Q2-B)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(Q2-C)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(Q2-E)">
+      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q3-B)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q3-C)">
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q3-E)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q4-B)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q4-E)">
+      <node ref="Q4" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(RV2-Pad3)">
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
