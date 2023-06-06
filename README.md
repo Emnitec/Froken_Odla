@@ -1,2 +1,2 @@
 # Froken_Odla
-Fröken Ödla
+Fröken Ödla is a version of the Soughtable effect pedal Lizzard Queen.
